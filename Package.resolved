@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FisherYates",
+        "repositoryURL": "https://github.com/duhnnie/Swift-FisherYates",
+        "state": {
+          "branch": null,
+          "revision": "fae816e66df2bb067a3ff264f9f35a0db1f24ae5",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/duhnnie/Swift-PlayingCard",
+        "state": {
+          "branch": null,
+          "revision": "0a5f3597ff2e6257eb0725eb0559a123d5de4184",
+          "version": "1.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,6 +1,6 @@
 import PlayingCard
 
-public struct Deck: Equatable {
+public struct Deck {
     fileprivate var cards: [PlayingCard]
 
     public static func standard52CardDeck() -> Deck {
